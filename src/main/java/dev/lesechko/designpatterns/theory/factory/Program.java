@@ -1,4 +1,4 @@
-package dev.lesechko.designpatterns.practice.factory;
+package dev.lesechko.designpatterns.theory.factory;
 
 public class Program {
     public static DeveloperFactory createDeveloperBySpecialty(String specialty) {

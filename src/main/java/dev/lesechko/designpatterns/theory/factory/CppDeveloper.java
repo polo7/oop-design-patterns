@@ -1,6 +1,6 @@
-package dev.lesechko.designpatterns.practice.factory;
+package dev.lesechko.designpatterns.theory.factory;
 
-public class CppDeveloper implements Developer {
+class CppDeveloper implements Developer {
     @Override
     public void writeCode() {
         System.out.println("C++ developer writes C++ code");
